@@ -3,4 +3,4 @@ MIDI File
 
 A C++ library to write MIDI files.
 
-To compile: g++ <your files> <midi_file.cpp>
+To compile: g++ &lt;your files&gt; &lt;midi_file.cpp&gt;
